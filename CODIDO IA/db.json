@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 8,
+      "name": "Nombre de prueba",
+      "email": "correo@ejemplo.com"
+    }
+  ],
+  "posts": [
+    {
+      "userId": 8,
+      "id": 1,
+      "title": "Mi primera publicación local",
+      "body": "Este es el contenido de prueba del post."
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "Comentario de prueba",
+      "email": "lector@ejemplo.com",
+      "body": "Este es un comentario excelente."
+    }
+  ]
+}
